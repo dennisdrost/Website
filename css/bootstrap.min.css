@@ -4457,7 +4457,7 @@ textarea.input-group-sm > .form-control, textarea.input-group-sm > .input-group-
     }
 
         .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
-            color: #18bc9c;
+            color: #b09ddf;
             background-color: transparent;
         }
 
@@ -4470,13 +4470,13 @@ textarea.input-group-sm > .form-control, textarea.input-group-sm > .input-group-
     }
 
         .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-            color: #18bc9c;
+            color: #b09ddf;
             background-color: transparent;
         }
 
     .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-        color: #fff;
-        background-color: #1a242f;
+        color: #b09ddf;
+        
     }
 
     .navbar-default .navbar-nav > .disabled > a, .navbar-default .navbar-nav > .disabled > a:hover, .navbar-default .navbar-nav > .disabled > a:focus {
